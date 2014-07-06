@@ -1,0 +1,8 @@
+Test suite Tasty: RUNNING...
+Tasty tests
+  HUnit test
+    : OK
+
+All 1 tests passed
+Test suite Tasty: PASS
+Test suite logged to: dist/test/ListFry-0.1.0.0-Tasty.log
